@@ -1,1 +1,1 @@
-# Pythongames-resources
+# Pythongames
